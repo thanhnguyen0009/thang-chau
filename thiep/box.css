@@ -350,7 +350,7 @@
 }
 
 .box-end{
-  margin-top: 170px;
+  margin-top: 130px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -397,6 +397,9 @@
     }
     .lb-cnt3{
       font-size: 17px;
+    }
+    .box-end{
+      margin-top: 90px;
     }
   }
   
